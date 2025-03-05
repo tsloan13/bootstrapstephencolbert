@@ -1,0 +1,60 @@
+img{
+	border-style:solid;
+	border-width: 10px;
+	border-color: white;
+}
+
+#leftpanel{
+	background-color: grey;
+	font-family:serif;
+	text-align:center;
+	color:white;
+}
+
+#leftpanel h1{
+	font-size: 50px;
+	text-align: center;
+	font-family: serif;
+	font-weight: bold;
+
+}
+#leftpanel h2{
+	font-size: 25px;
+}
+
+#leftpanel h3{
+	font-size: 20px;
+}
+a{
+	color:white;
+}
+#leftpanel li{
+	list-style-position: inside;
+}
+a:link{
+	text-decoration: none;
+}
+
+h2{
+	font-size:25px;
+	text-align:center;
+	font-family: serif;
+	letter-spacing: 8px;
+}
+
+h3,p{
+	font-family: serif;
+	text-align:center;
+}
+
+li{
+font-family:serif;
+}
+
+#button{
+	background-color: blue;
+	border-radius: 12px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+
+
